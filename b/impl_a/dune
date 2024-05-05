@@ -1,0 +1,5 @@
+(library
+  (name b_a)
+  (public_name b.a)
+  (libraries a)
+  (implements b))

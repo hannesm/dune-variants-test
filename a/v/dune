@@ -1,0 +1,5 @@
+(library
+  (name a)
+  (public_name a)
+  (virtual_modules a)
+  (default_implementation a.a))

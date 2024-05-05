@@ -1,0 +1,5 @@
+(library
+  (name a_a)
+  (public_name a.a)
+  (libraries magic)
+  (implements a))
